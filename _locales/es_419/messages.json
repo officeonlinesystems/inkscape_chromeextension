@@ -1,0 +1,11 @@
+{
+  "title": {
+    "message": "Inkscape Editor de dibujos y gráficos"
+  },
+  "description": {
+    "message": "Crear o editar gráficos vectoriales como ilustraciones, diagramas, artes de línea, gráficos, logotipos y pinturas complejas"
+  },
+  "new_png": {
+    "message": "Nueva pintura"
+  }
+}

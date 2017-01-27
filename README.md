@@ -1,2 +1,4 @@
-# inkscape_chromeextension
-Chrome Extension editor for draws and graphics
+LibreOffice Editor
+========================
+
+Chrome Extension for creating and editing documents 
