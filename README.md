@@ -1,4 +1,4 @@
-# Chrome Extension for creating and editing documents, xls spreadsheets and ppt files
+# Chrome Extension to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings
 ========================
 
 Chrome Extension from http://www.offidocs.com to create or edit vector graphics such as illustrations, diagrams, line arts, charts, logos and complex paintings. It is an integration with the Linux Desktop app Inkscape, which is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
